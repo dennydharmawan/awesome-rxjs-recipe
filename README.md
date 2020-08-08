@@ -7,3 +7,4 @@ https://stackoverflow.com/questions/45513629/debouncing-and-cancelling-with-redu
 | Use-Case&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Autocomplete](https://blog.strongbrew.io/building-a-safe-autocomplete-operator-with-rxjs/) | debounce input and cancel previous request
+| [Exponential Backoff](https://angular.io/guide/practical-observable-usage) | retry async operation with exponential backoff
