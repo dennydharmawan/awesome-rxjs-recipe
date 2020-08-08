@@ -1,4 +1,4 @@
 # awesome-rxjs-recipe
 
-Autocomplete
+Autocomplete (Should add distinctUntilChanged after debounceTime)
 https://blog.strongbrew.io/building-a-safe-autocomplete-operator-with-rxjs/
